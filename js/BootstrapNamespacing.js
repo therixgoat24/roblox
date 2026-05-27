@@ -1,0 +1,1 @@
+﻿$.fn.bootstrapModal = $.fn.modal;
